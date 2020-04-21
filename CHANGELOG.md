@@ -1,5 +1,9 @@
 # Change Log
 
+## 2020-04-21
+
+- Re-licensed to Umbra Aeterna Labs (formerly Duo Extrema Software)
+
 ## 2019-08-13
 
 ##### Changes

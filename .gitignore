@@ -117,3 +117,6 @@ doc/
 # Environment
 venv/
 venv.old/
+
+# Dolphin config files
+**/.directory
