@@ -1,5 +1,5 @@
 """
-    Copyright (C) 2021 Umbra Aeterna Labs <https://github.com/Umbra-Aeterna-Labs>
+    Copyright 2021 Umbra Aeterna Labs <https://github.com/Umbra-Aeterna-Labs>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
