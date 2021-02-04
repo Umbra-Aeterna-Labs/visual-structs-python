@@ -1,20 +1,22 @@
 # Change Log
 
-## 2020-04-21
+## 2021-02-04
 
-- Re-licensed to Umbra Aeterna Labs (formerly Duo Extrema Software)
+##### Changes
+* add license header to source files, update readme
+
+## 2020-04-21
+* Re-licensed to Umbra Aeterna Labs (formerly Duo Extrema Software)
 
 ## 2019-08-13
 
 ##### Changes
-
-- Re-licensed to Duo Extrema software
+* Re-licensed to Duo Extrema software
 
 ## 2019-08-10
 
 ##### Additions
-
-- Add rudimentary array-graphing
+* Add rudimentary array-graphing
 
 ## 2019-08-01
 
